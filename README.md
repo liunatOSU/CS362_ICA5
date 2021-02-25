@@ -1,1 +1,1 @@
-Was unable to install pytest on engr servers so only have unit tests for both fibonacci and factorial function.
+Was unable to install pytest on engr servers so only have unit tests for fibonacci and factorial function.
